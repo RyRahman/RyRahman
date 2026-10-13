@@ -52,12 +52,12 @@ drwxr-xr-x  experimental/
 
 | PROJECT | DESCRIPTION |
 |:---|:---|
-| 📊 **[NYC Civil Service Dashboard](https://github.com/RyRahman/NYC-Civil-Service-Dashboard)** | Explore NYC civil service data through an interactive dashboard and public API integration. |
-| 🎧 **[PDF Audiobook Player](https://github.com/RyRahman/PDF-Audiobook-Player)** | Convert PDF reading into a customizable listening experience with browser-based speech. |
-| 📈 **[Financial Growth Calculator](https://github.com/RyRahman/financial-growth-calculator)** | Model salary progression, investment growth, and compound returns interactively. |
-| 🧮 **[Full-Time Experience Calculator](https://github.com/RyRahman/Full-Time-Experience-Calculator)** | Calculate employment duration across multiple periods, including overlapping dates. |
-| ▦ **[Batch QR Code Generator](https://github.com/RyRahman/batch-qr-code-generator)** | Generate multiple QR codes from text and URLs directly in your browser. |
-| 📄 **[Resume](https://github.com/RyRahman/resume)** | My professional background, experience, and qualifications. |
+| 📊 **[NYC Civil Service Dashboard](https://ryrahman.github.io/NYC-Civil-Service-Dashboard)** | Explore NYC civil service data through an interactive dashboard and public API integration. |
+| 🎧 **[PDF Audiobook Player](https://ryrahman.github.io/PDF-Audiobook-Player)** | Convert PDF reading into a customizable listening experience with browser-based speech. |
+| 📈 **[Financial Growth Calculator](https://ryrahman.github.io/RyRahman/financial-growth-calculator)** | Model salary progression, investment growth, and compound returns interactively. |
+| 🧮 **[Full-Time Experience Calculator](https://ryrahman.github.io/Full-Time-Experience-Calculator)** | Calculate employment duration across multiple periods, including overlapping dates. |
+| ▦ **[Batch QR Code Generator](https://ryrahman.github.io/batch-qr-code-generator)** | Generate multiple QR codes from text and URLs directly in your browser. |
+| 📄 **[Resume](https://ryrahman.github.io/resume)** | My professional background, experience, and qualifications. |
 
 ---
 
@@ -72,10 +72,12 @@ languages:
   - CSS
 
 data_and_analytics:
-  - Power BI
   - Excel
+  - Power BI
+  - Tableau
   - Data Visualization
-  - Data Modeling
+  - Data Modeling 
+  - Data Warehousing
 
 automation_and_systems:
   - Power Automate
