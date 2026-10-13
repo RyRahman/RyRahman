@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=55EFC4&center=true&vCenter=true&width=760&lines=Hello%2C+World!+I'm+Ryan+Rahman.;HR+Data+%26+Systems+%7C+Business+Analytics;Automating+the+boring+stuff...;Building+things+that+actually+work.)](https://git.io/typing-svg)
 
-`SYSTEM ONLINE` • `BROOKLYN, NYC` • `ALWAYS BUILDING`
+`SYSTEM ONLINE` • `NYC` • `ALWAYS CURIOUS`
 
 </div>
 
@@ -17,9 +17,8 @@
 ryan@github:~$ whoami
 
 Name       : Ryan Rahman
-Location   : New York, New York
+Location   : New York, NY
 Focus      : HR Data & Systems | Business Analytics
-Interests  : Automation, Technology, Photography
 Mission    : Make complicated things simple.
 
 ryan@github:~$ echo $PHILOSOPHY
@@ -30,13 +29,13 @@ ryan@github:~$ echo $PHILOSOPHY
 
 ### `~/about`
 
-I work at the intersection of **people, data and technology**.
+I work at the intersection of people, data and technology.
 
 By profession, I manage HR data and systems. By curiosity, I build applications, explore datasets, automate workflows and experiment with new technology.
 
 I enjoy turning complicated processes into simple, functional tools.
 
-Outside of technology, you'll probably find me exploring New York City!
+Outside of technology, you'll probably find me exploring New York City on a CitiBike!
 
 ---
 
