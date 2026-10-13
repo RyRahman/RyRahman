@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![RYAN.OS](https://capsule-render.vercel.app/api?type=waving&color=0:0B1017,50:124C50,100:0B1017&height=200&section=header&text=RYAN.OS&fontSize=65&fontColor=66FFD1&animation=fadeIn&fontAlignY=38&desc=DATA%20%7C%20SYSTEMS%20%7C%20AUTOMATION&descAlignY=59&descSize=17)
+![RYAN.R](https://capsule-render.vercel.app/api?type=waving&color=0:0B1017,50:124C50,100:0B1017&height=200&section=header&text=RYAN.OS&fontSize=65&fontColor=66FFD1&animation=fadeIn&fontAlignY=38&desc=DATA%20%7C%20SYSTEMS%20%7C%20AUTOMATION&descAlignY=59&descSize=17)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=55EFC4&center=true&vCenter=true&width=760&lines=Hello%2C+World!+I'm+Ryan+Rahman.;HR+Data+%26+Systems+%7C+Business+Analytics;Automating+the+boring+stuff...;Building+things+that+actually+work.)](https://git.io/typing-svg)
 
