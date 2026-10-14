@@ -5,7 +5,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=55EFC4&center=true&vCenter=true&width=760&lines=Hello%2C+World!+I'm+Ryan+Rahman.;HR+Data+%26+Systems+%7C+Business+Analytics;Automating+the+boring+stuff...;Building+things+that+actually+work.)](https://git.io/typing-svg)
 
-`SYSTEM ONLINE` • `NYC` • `ALWAYS CURIOUS`
 
 </div>
 
@@ -18,22 +17,20 @@ ryan@github:~$ whoami
 
 Name       : Ryan Rahman
 Location   : New York, NY
-Focus      : HR Data & Systems | Business Analytics
-Mission    : Make complicated things simple.
+Focus      : Data & Systems | Business Analytics
 
 ryan@github:~$ echo $PHILOSOPHY
 
-"Work smarter. Automate what you can.
- Build what you wish existed."
+"Work smarter, not harder!"
+ "Build what you wish existed."
 ```
 
 ### `~/about`
 
 I work at the intersection of people, data and technology.
 
-By profession, I manage HR data and systems. By curiosity, I build applications, explore datasets, automate workflows and experiment with new technology.
+By profession, I manage HR data and systems. By curiosity, I build applications, explore datasets and experiment with new technology.
 
-I enjoy turning complicated processes into simple, functional tools.
 
 Outside of technology, you'll probably find me exploring New York City on a CitiBike!
 
@@ -67,6 +64,7 @@ drwxr-xr-x  experimental/
 languages:
   - Python
   - SQL
+  - R
   - JavaScript
   - HTML
   - CSS
@@ -119,7 +117,6 @@ ryan@github:~$ systemctl status curiosity.service
 
 [ OK ] Exploring new technology
 [ OK ] Building useful applications
-[ OK ] Improving existing workflows
 [ OK ] Learning something new
 
 ryan@github:~$ _
@@ -147,7 +144,7 @@ Session terminated successfully.
 Thanks for stopping by!
 ```
 
-**BUILD • LEARN • AUTOMATE • REPEAT**
+**NYC 2026**
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0B1017,50:124C50,100:0B1017&height=100&section=footer)
 
